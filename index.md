@@ -1,5 +1,3 @@
----
-title: Welcome to my blog
----
+## title: Welcome to my blog
 
 ### Theory of Probability
