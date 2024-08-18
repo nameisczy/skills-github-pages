@@ -1,2 +1,2 @@
-## Theory of Probability
+# Theory of Probability
 
